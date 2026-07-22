@@ -1,0 +1,1 @@
+ALTER TABLE public.comandas ADD COLUMN IF NOT EXISTS cliente_nome text;

@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.get_configuracoes_publicas() FROM anon, PUBLIC;

@@ -1,0 +1,1 @@
+ALTER TABLE public.comandas ALTER COLUMN garcom_id DROP NOT NULL;
